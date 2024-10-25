@@ -1,0 +1,43 @@
+CATEGORIA
+oficina
+imagen categoria: oficina.png
+____________________________________________________________________________________
+
+NOMBRES DE LA SUBCATEGORIAS
+
+bibliotecas
+mesas de escritorio
+sillas de oficina
+
+____________________________________________________________________________________
+DATOS DE LOS PRODUCTOS 
+
+Se encuentran los datos ordenados en este orden:
+`descripcion`,  `material`, `color`, `caracteristicas`, `marca`, `stock`, `precio`, nombre del archivo que se encuentra en la carpeta pruebas 
+
+OFICINA | BIBLIOTECAS
+biblioteca de pino, madera, marron, ancho: 25,profundidad: 25,altura: 180, colonial, 4, 5654.00, 0, ofbi1.png
+biblioteca estantería industrial, hierro y madera, marron, ancho: 120,profundidad: 30,altura: 190, almamuebleshym, 4, 9999.99, 0, ofbi2.png
+biblioteca estantería escandinava, madera, blanco y marron, ancho: 90,profundidad: 30,altura: 180, pazionne, 4, 9999.99, 0, ofbi3.png
+biblioteca de pino, madera, marron, ancho: 100,profundidad: 25,altura: 180, cruz, 4, 5000.00, 0, ofbi4.png
+bibilioteca estanteria madera pino organizador emm, madera, blanco, ancho: 72,profundidad: 35,altura: 153, corfam, 4, 9999.99, 0, ofbi5.png
+biblioteca alta organizador estantes escalera, madera, marron, ancho: 90,profundidad: 25,altura: 183, muebles eco, 4, 8760.00, 0, ofbi6.png
+
+OFICINA | MESAS DE ESCRITORIO
+escritorio cerradura, madera, beige y negro, altura: 74,ancho: 120,profundidad: 70, platinum, 4, 9599.00, 0, ofme1.png
+mesa de pc con alzada owen, madera, marron, altura: 75,ancho: 18,profundidad: 45, su-office, 4, 6990.00, 0, ofme2.png
+escritorio pc notebook mod, madera, blanco, altura: 75,ancho: 100,profundidad: 45, platinum, 4, 5199.00, 0, ofme3.png
+mesa escritorio pc extraible,madera, negro, altura: 121,ancho: 101,profundidad: 45, mosconi, 4, 7989.00, 0, ofme4.png
+mesa escritorio para pc- notebooks, madera, beige y marron, altura: 75,ancho: 95,profundidad: 44, piro, 4, 9999.99, 0, ofme5.png
+escritorio mesa pc impresora biblioteca oficina, madera, blanco, altura: 121,ancho: 101,profundidad: 45, mosconi, 4, 8570.00, 0, ofme6.png
+
+
+OFICINA | SILLAS DE OFICINA
+tisera silla baut ergonómica, algodon y metal, negro, altura del respaldo: 80,altura del piso al asiento: 50, tisera, 4, 9999.99, 0, ofsi1.png
+silla ejcutiva mesh, algodon y metal, negro, altura del respaldo: 69,altura del piso al asiento: 53, baires4, 3, 9999.99, 0, ofsi2.png
+silla de escritorio de outlet diva, algodon y metal, negro, altura del respaldo: 55,altura del piso al asiento: 30, sillas de outlet, 3, 9999.99, 0, ofsi3.png
+sillon ejecutivo silla oficina pc, algodon y metal, negro, altura del respaldo: 66,altura del piso al asiento: 43, rd, 4, 9999.99, 0, ofsi4.png
+silla ergonómica, algodon y metal, negro, altura del respaldo: 55,altura del piso al asiento: 47, baires4, 4, 9999.99, 0, ofsi5.png
+silla butaca gamer , algodon y metal, negro, altura del respaldo: 87.5,altura del piso al asiento: 50, iqual, 4, 9999.99, 0, ofsi6.png);
+
+

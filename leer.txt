@@ -1,0 +1,19 @@
+1_ extraer carpetas.rar
+2_ crear base de datos llamada catato_hogar en phpmyadmin
+3_ importar el archivo de la carpeta bd
+
+**Privilegios:**
+
+--contraseña = 2021_trabajoF147!
+
+GRANT USAGE ON *.* TO 'usuario_bd'@'localhost' IDENTIFIED BY PASSWORD '*E2DFC952E440868ACC53A49675B9DD151DAE995C';
+
+GRANT SELECT, INSERT, UPDATE, DELETE ON `catato_hogar`.* TO 'usuario_bd'@'localhost';
+
+***Usuarios***
+
+nombre: caelenaShar   |contraseña: 5678   | usuario
+nombre: AnaLopez      |contraseña: 3673   | empleado
+nombre: RomanRissi    |contraseña: 7842   | usuario
+nombre: CarlaMamun    |contraseña: 6323   | empleado
+nombre: EliMandes     |contraseña: 4683   | usuario __ es la que tiene consultas y compras realizadas
